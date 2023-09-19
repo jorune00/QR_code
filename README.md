@@ -1,7 +1,7 @@
 # QR Code Generator
 
 ## Overview
-This is a simple Python program that generates a QR code for a given website URL. The QR code is saved as a `.png` image file.
+This is a simple Python program that generates a QR code for a given website URL. The QR code is saved as a `.png` image file. Additional instructions to generate a QR code that allows a phone to automatically connect to a Wi-Fi network when scanned. See 'Generate_QR_Wi-Fi.txt'
 
 ## Features
 - Takes user input for the website URL
