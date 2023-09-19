@@ -16,7 +16,7 @@ You can install these by running `pip install -r requirements.txt`.
 
 ## Usage
 1. Run the program.
-2. Enter the website URL when prompted.
+2. Enter the website URL (or any value) when prompted.
 3. Enter the filename when prompted.
 4. The QR code will be generated and saved in the specified `.png` file.
 
