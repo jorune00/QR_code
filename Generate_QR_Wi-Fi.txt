@@ -1,0 +1,11 @@
+# How to Generate a QR Code for Wi-Fi Access
+
+This document explains how you can generate a QR code that allows a phone to automatically connect to a Wi-Fi network when scanned.
+
+## Format
+
+The general format for the Wi-Fi QR code content is:
+
+WIFI:S:<SSID>;T:<WPA/WEP>;P:<Password>;;
+
+EX: WIFI:S:MyNetwork;T:WPA2;P:12345678;;
